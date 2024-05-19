@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nyrsitraka.github.io/sitemap.xml
+Sitemap: https://nyrsitraka.github.io/al-folio# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
